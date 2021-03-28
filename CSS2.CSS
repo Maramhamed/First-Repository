@@ -1,0 +1,96 @@
+    
+       body {background-color:#ebdef6;}
+     
+    div {background-color:#d1b6ec;
+          text-align: left;
+               width: 50%;
+          align-items:center;
+               height:130px;
+        margin-left: auto;
+        margin-right: auto;
+       padding: 10px;
+        border: 2px solid #c5a2e6;
+        border-radius: 20px;
+        text-transform: capitalize;
+          direction: ltr;
+         letter-spacing: 1px;
+          font-size: 20px;
+          font-weight:100;
+       }
+       
+      .edu {background-color:#d1b6ec;
+          text-align: left;
+               width: 50%;
+          align-items:center;
+               height:260px;
+        margin-left: auto;
+        margin-right: auto;
+       padding: 10px;
+        border: 2px solid #c5a2e6;
+        border-radius: 20px;
+        text-transform: capitalize;
+          direction: ltr;
+         letter-spacing: 1px;
+          font-size: 20px;
+           font-weight:100;
+       }
+       
+img { vertical-align: middle; 
+       border: 2px dashed #9b8da8;}
+
+       h1{ text-align:inherit;
+       padding-left: 25%;
+          text-transform: capitalize;
+             text-shadow: 2px 2px 5px #b88de1;
+             font-size: 30px;
+   }
+
+
+    .exp{background-color:#d1b6ec;
+          text-align: right;
+               width: 50%;
+          align-items:center;
+               height:200px;
+        margin-left: auto;
+        margin-right: auto;
+       padding: 10px;
+        border: 2px solid #c5a2e6;
+       border-radius: 20px;
+        text-transform: capitalize;
+          direction: rtl;
+         letter-spacing: 1px;
+          font-size: 20px;
+           font-weight:100;
+       }
+      .skill {background-color:#d1b6ec;
+          text-align: left;
+               width: 50%;
+          align-items:center;
+               height:180px;
+        margin-left: auto;
+        margin-right: auto;
+       padding: 10px;
+        border: 2px solid #c5a2e6;
+        border-radius: 20px;
+        text-transform: capitalize;
+          direction: ltr;
+         letter-spacing: 1px;
+          font-size: 20px;
+           font-weight:100;
+       }
+   .proj{background-color:#d1b6ec;
+          text-align: left;
+               width: 50%;
+          align-items:center;
+               height:130px;
+        margin-left: auto;
+        margin-right: auto;
+       padding: 10px;
+        border: 2px solid #c5a2e6;
+        border-radius: 20px;
+        text-transform: capitalize;
+          direction: ltr;
+         letter-spacing: 1px;
+          font-size: 20px;
+           font-weight:100;
+       }
